@@ -1,0 +1,26 @@
+<package>
+  <name>fetch_april25_demo</name>
+  <version>0.3.0</version>
+  <description>
+     An automatically generated package with all the configuration and launch files for using the fetch with the MoveIt Motion Planning Framework
+  </description>
+  <author email="abusa@umich.edu">Anviksha Busa</author>
+  <maintainer email="abusa@umich.edu">Anviksha Busa</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://moveit.ros.org/</url>
+  <url type="bugtracker">https://github.com/ros-planning/moveit/issues</url>
+  <url type="repository">https://github.com/ros-planning/moveit</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>actionlib</run_depend>
+  <run_depend>fetch_april25</run_depend>
+  <run_depend>fetch_april25_moveit_config</run_depend>
+  <run_depend>fetch_navigation</run_depend>
+  <run_depend>moveit_commander</run_depend>
+  <run_depend>moveit_python</run_depend>
+  <run_depend>simple_grasping</run_depend>
+  <run_depend>teleop_twist_keyboard</run_depend>
+</package>

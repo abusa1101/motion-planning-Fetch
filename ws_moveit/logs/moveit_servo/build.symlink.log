@@ -1,0 +1,10 @@
+Symlinking /home/anviksha/ws_moveit/devel/share/moveit_servo/cmake/moveit_servoConfig-version.cmake
+Symlinking /home/anviksha/ws_moveit/devel/share/moveit_servo/cmake/moveit_servoConfig.cmake
+Symlinking /home/anviksha/ws_moveit/devel/lib/libmoveit_servo_cpp_api.so.1.1.1
+Symlinking /home/anviksha/ws_moveit/devel/lib/libmoveit_servo_cpp_api.so
+Symlinking /home/anviksha/ws_moveit/devel/lib/libpose_tracking.so
+Symlinking /home/anviksha/ws_moveit/devel/lib/pkgconfig/moveit_servo.pc
+Symlinking /home/anviksha/ws_moveit/devel/lib/moveit_servo/pose_tracking_example
+Symlinking /home/anviksha/ws_moveit/devel/lib/moveit_servo/servo_server
+Symlinking /home/anviksha/ws_moveit/devel/lib/moveit_servo/cpp_interface_example
+Symlinking /home/anviksha/ws_moveit/devel/lib/moveit_servo/spacenav_to_twist

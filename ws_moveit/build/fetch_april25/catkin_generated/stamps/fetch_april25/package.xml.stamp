@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>fetch_april25</name>
+  <version>0.3.0</version>
+  <description>
+     An automatically generated package with all the configuration and launch files for using the fetch with the MoveIt Motion Planning Framework
+  </description>
+  <author email="abusa@umich.edu">Anviksha Busa</author>
+  <maintainer email="abusa@umich.edu">Anviksha Busa</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://moveit.ros.org/</url>
+  <url type="bugtracker">https://github.com/ros-planning/moveit/issues</url>
+  <url type="repository">https://github.com/ros-planning/moveit</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>angles</build_depend>
+  <build_depend>gazebo_dev</build_depend>
+
+  <depend>control_toolbox</depend>
+  <depend>boost</depend>
+  <depend>gazebo_plugins</depend>
+  <depend>gazebo_ros</depend>
+  <depend>robot_controllers</depend>
+  <depend>robot_controllers_interface</depend>
+  <depend>sensor_msgs</depend>
+
+  <exec_depend>actionlib</exec_depend>
+  <exec_depend>control_msgs</exec_depend>
+  <exec_depend>depth_image_proc</exec_depend>
+  <exec_depend>fetch_description</exec_depend>
+  <exec_depend>gazebo</exec_depend>
+  <exec_depend>image_proc</exec_depend>
+  <exec_depend>nodelet</exec_depend>
+  <exec_depend>rgbd_launch</exec_depend>
+  <exec_depend>trajectory_msgs</exec_depend>
+  <exec_depend>xacro</exec_depend>
+</package>

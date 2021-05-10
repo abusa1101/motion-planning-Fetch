@@ -1,0 +1,8 @@
+prefix=/home/anviksha/ws_moveit/install
+
+Name: arm_control
+Description: Description of arm_control
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

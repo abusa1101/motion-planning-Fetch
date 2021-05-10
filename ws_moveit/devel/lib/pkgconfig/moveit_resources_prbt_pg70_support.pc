@@ -1,0 +1,8 @@
+prefix=/home/anviksha/ws_moveit/devel
+
+Name: moveit_resources_prbt_pg70_support
+Description: Description of moveit_resources_prbt_pg70_support
+Version: 0.7.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

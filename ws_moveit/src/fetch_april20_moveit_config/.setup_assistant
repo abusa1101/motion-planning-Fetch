@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: fetch_description
+    relative_path: robots/fetch.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/fetch.srdf
+  CONFIG:
+    author_name: Anviksha Busa
+    author_email: abusa@umich.edu
+    generated_timestamp: 1619376969
